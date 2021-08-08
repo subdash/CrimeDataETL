@@ -8,6 +8,6 @@ Here's how it works:
 3. Transform the data: remove null columns, add year column which is not present in data set, convert strings to numbers
 4. Load the data from Pandas dataframes into an SQL database
 
-If you were going to use this for data analysis, all you would need to do is set up your DB and run the ETL script passing in your connection string.
+If you were going to use this for data analysis, all you would need to do is set up your DB and run the ETL script passing in your connection string, and then you have 40 years of data on crime trends in your database.
 
-There is a Jupyter Notebook in the `src` directory you can try out to test the extract/transform steps. Loading requires the DB to be set up.
+There is a [Jupyter Notebook](https://github.com/subdash/CrimeDataETL/blob/master/src/Test%20Notebook.ipynb) in the `src` directory you can try out to test the extract/transform steps. Loading requires the DB to be set up.
