@@ -1,0 +1,39 @@
+"Offenses","All ages","0 to 17","18 & older","10 to 17","0 to 14","15 to 17","18 to 20","21 to 24","25 & older",
+"All offenses","11,784,160","1,870,760","9,913,400","1,818,080","603,680","1,267,070","1,710,430","2,167,050","6,035,930",
+"Murder and nonnegligent manslaughter","18,330","1,510","16,820","1,500","180","1,320","2,520","3,520","10,780",
+"Forcible rape","36,970","5,640","31,330","5,520","2,020","3,620","4,670","6,590","20,080",
+"Robbery","136,870","34,600","102,270","34,280","9,080","25,510","27,040","28,070","47,160",
+"Aggravated assault","305,390","41,890","263,500","40,930","13,070","28,820","37,340","55,240","170,920",
+"Burglary","443,300","169,600","273,700","164,550","63,450","106,150","87,130","70,410","116,160",
+"Larceny-theft","1,348,400","441,050","907,350","423,000","191,190","249,860","199,710","184,250","523,400",
+"Motor vehicle theft","133,900","51,130","82,770","50,830","12,870","38,250","26,050","21,030","35,690",
+"Arson","19,500","7,990","11,510","6,550","5,090","2,900","2,040","2,260","7,210",
+"Simple assault","637,600","96,800","540,800","93,820","36,310","60,490","74,720","119,480","346,600",
+"Forgery and counterfeiting","87,600","9,100","78,500","9,070","1,450","7,640","14,690","18,380","45,440",
+"Fraud","342,600","19,490","323,110","19,270","7,820","11,680","29,460","63,360","230,290",
+"Embezzlement","11,400","790","10,610","780","130","660","1,630","2,370","6,610",
+"Stolen property (buying, receiving, possessing)","127,100","32,010","95,090","31,580","9,160","22,850","25,260","22,890","46,940",
+"Vandalism","259,600","115,490","144,110","106,410","59,570","55,920","38,270","35,470","70,360",
+"Weapons (carrying, possessing, etc.)","180,900","29,610","151,290","29,300","8,340","21,270","27,240","33,150","90,900",
+"Prostitution and commercialized vice","113,800","2,750","111,060","2,740","280","2,470","16,420","35,000","59,630",
+"Sex offense (except forcible rape and prostitution)","100,600","17,190","83,410","16,390","8,000","9,200","9,700","14,220","59,490",
+"Drug abuse violations","811,400","93,090","718,310","92,880","15,170","77,920","140,970","193,240","384,090",
+"Gambling","32,100","990","31,120","970","210","780","1,970","3,730","25,410",
+"Offenses against the family and children","58,800","2,760","56,040","2,160","1,320","1,450","5,140","9,610","41,290",
+"Driving under the influence","1,788,400","24,470","1,763,930","24,300","720","23,750","169,080","358,990","1,235,860",
+"Liquor laws","548,600","139,850","408,750","139,670","11,770","128,080","195,180","75,310","138,260",
+"Drunkenness","964,800","27,790","937,010","27,510","3,480","24,310","86,420","159,450","691,150",
+"Disorderly conduct","671,700","96,000","575,700","93,860","28,710","67,280","106,620","141,590","327,490",
+"Vagrancy","33,800","3,210","30,590","3,120","840","2,370","5,310","5,340","19,940",
+"All other offenses (except traffic)","2,489,200","324,490","2,164,710","316,250","90,220","234,270","375,850","504,100","1,284,760",
+"Curfew and loitering","81,500","81,500","0","80,840","23,230","58,280","0","0","0",
+"Violent Crime Index","497,560","83,630","413,930","82,240","24,360","59,280","71,570","93,420","248,940",
+"Property Crime Index","1,945,100","669,760","1,275,340","644,930","272,600","397,160","314,930","277,950","682,460",
+"Violent crimes*","460,590","78,000","382,590","76,720","22,340","55,660","66,900","86,830","228,860",
+
+"* The 'violent crimes' category includes the offenses of murder, robbery, and aggravated assault and is presented as an alternative to the Violent Crime Index, which is not available as a result of the change to the definition of rape in 2013. In any given year prior to the change in the rape definition, these three offenses accounted for more than 95% of arrests for Violent Crime Index offenses."
+
+"Internet citation: OJJDP Statistical Briefing Book. Estimated number of arrests by offense and age group, 1985. Available: https://www.ojjdp.gov/ojstatbb/crime/ucr.asp?table_in=1. Released onNovember 16, 2020."
+
+"Data source: Arrest estimates for 1980-2014 developed by the Bureau of Justice Statistics and disseminated through 'Arrest Data Analysis Tool.' Online. Available from the BJS website. "
+"Arrest estimates for 2015 through 2019 developed by the National Center for Juvenile Justice based on data published in the FBI's Crime in the United States reports. These are preliminary estimates that will be updated upon release of final estimates on the Bureau of Justice Statistics' Arrest Data Analysis Tool. "

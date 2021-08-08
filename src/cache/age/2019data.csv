@@ -1,0 +1,42 @@
+"Offenses","All ages","0 to 17","18 & older","10 to 17","0 to 14","15 to 17","18 to 20","21 to 24","25 & older",
+"All offenses","10,085,210","696,620","9,388,590","692,970","224,410","472,210","807,210","1,197,810","7,383,560",
+"Murder and nonnegligent manslaughter","11,060","860","10,200","860","110","760","1,720","1,840","6,640",
+"Rape","NA","NA","NA","NA","NA","NA","NA","NA","NA",
+"Robbery","74,550","16,080","58,460","16,070","3,490","12,590","12,440","10,440","35,590",
+"Aggravated assault","385,280","27,070","358,210","26,870","9,530","17,530","27,080","46,580","284,550",
+"Burglary","171,590","20,700","150,890","20,570","6,860","13,840","15,890","19,700","115,300",
+"Larceny-theft","813,070","83,690","729,380","83,380","24,860","58,830","76,410","87,050","565,930",
+"Motor vehicle theft","80,640","13,610","67,030","13,600","3,670","9,940","7,620","9,310","50,100",
+"Arson","9,070","1,800","7,270","1,730","1,020","780","530","720","6,020",
+"Simple assault","1,025,710","126,130","899,580","125,080","55,190","70,950","67,590","115,930","716,050",
+"Forgery and counterfeiting","45,180","850","44,330","850","140","710","4,440","5,190","34,700",
+"Fraud","112,710","3,690","109,010","3,690","910","2,780","8,140","12,810","88,060",
+"Embezzlement","13,500","540","12,960","540","30","510","1,950","1,960","9,040",
+"Stolen property (buying, receiving, possessing)","88,270","8,940","79,330","8,940","1,890","7,060","9,100","10,750","59,480",
+"Vandalism","180,500","31,950","148,550","31,510","13,900","18,060","17,420","22,360","108,770",
+"Weapons (carrying, possessing, etc.)","153,160","16,080","137,080","15,990","4,650","11,430","17,750","23,560","95,780",
+"Prostitution and commercialized vice","26,710","290","26,430","290","40","250","2,900","4,660","18,870",
+"Sex offenses (except rape & prostitution)","NA","NA","NA","NA","NA","NA","NA","NA","NA",
+"Drug abuse violations","1,558,860","81,320","1,477,540","81,240","15,890","65,430","169,060","215,230","1,093,250",
+"Gambling","2,460","190","2,260","190","30","160","200","190","1,880",
+"Offenses against the family and children","85,690","3,060","82,630","3,020","1,130","1,930","3,210","6,990","72,420",
+"Driving under the influence","1,024,510","5,570","1,018,940","5,560","140","5,430","48,610","143,930","826,410",
+"Liquor laws","175,550","26,650","148,900","26,640","4,180","22,460","68,270","12,610","68,020",
+"Drunkenness","316,030","3,470","312,560","3,470","540","2,940","15,450","35,700","261,410",
+"Disorderly conduct","310,330","53,990","256,340","53,660","23,490","30,500","23,470","35,200","197,670",
+"Vagrancy","21,900","350","21,550","340","100","240","1,040","1,400","19,110",
+"All other offenses (except traffic)","3,318,450","144,160","3,174,300","143,410","42,580","101,570","201,060","367,700","2,605,540",
+"Curfew and loitering","14,650","14,650","0","14,630","4,930","9,730","0","0","0",
+"Violent Crime Index","NA","NA","NA","NA","NA","NA","NA","NA","NA",
+"Property Crime Index","1,074,370","119,790","954,570","119,280","36,410","83,380","100,450","116,780","737,340",
+"Violent crimes*","470,890","44,010","426,870","43,810","13,130","30,880","41,250","58,850","326,770",
+
+"NA: Beginning in 2013, the FBI broadened the definition of rape, removing the phrase 'forcible' from the offense name and description. The new definition of rape is: Penetration, no matter how slight, of the vagina or anus with any body part or object, or oral penetration by a sex organ of another person, without the consent of the victim. The new definition includes the NIBRS offenses of rape, sodomy, and sexual assault with an object."
+
+"Law enforcement agencies may submit data on rape arrests based on either the new or legacy definition of rape. Due to differences in agency reporting practices, national estimates for the offenses of 'rape' and 'sex offenses' are not available after 2012. Additionally, estimates for the Violent Crime Index (which included 'forcible rape' are not shown after 2012 as this category is no longer compatible with prior years."
+"* The 'violent crimes' category includes the offenses of murder, robbery, and aggravated assault and is presented as an alternative to the Violent Crime Index, which is not available as a result of the change to the definition of rape in 2013. In any given year prior to the change in the rape definition, these three offenses accounted for more than 95% of arrests for Violent Crime Index offenses."
+
+"Internet citation: OJJDP Statistical Briefing Book. Estimated number of arrests by offense and age group, 2019. Available: https://www.ojjdp.gov/ojstatbb/crime/ucr.asp?table_in=1. Released onNovember 16, 2020."
+
+"Data source: Arrest estimates for 1980-2014 developed by the Bureau of Justice Statistics and disseminated through 'Arrest Data Analysis Tool.' Online. Available from the BJS website. "
+"Arrest estimates for 2015 through 2019 developed by the National Center for Juvenile Justice based on data published in the FBI's Crime in the United States reports. These are preliminary estimates that will be updated upon release of final estimates on the Bureau of Justice Statistics' Arrest Data Analysis Tool. "
